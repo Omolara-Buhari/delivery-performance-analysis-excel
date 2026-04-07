@@ -40,3 +40,8 @@ An interactive Excel dashboard was created to visualize:
 - A significant number of deliveries were delayed beyond expected dates
 - Certain regions experienced more delays than others
 - Peak delivery periods showed higher inefficiencies
+
+## Recommendations
+- Improve route planning for high-delay regions
+- Optimize delivery scheduling during peak periods
+- Monitor KPIs regularly using dashboards
