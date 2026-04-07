@@ -8,6 +8,16 @@ Delivery performance is a critical factor in logistics and supply chain manageme
 
 This project focuses on analyzing delivery performance data to understand delays, identify inefficiencies, and improve logistics operations.
 
+## Background
+In today’s competitive logistics industry, delivery delays can lead to customer dissatisfaction, increased costs, and loss of business reputation.
+
+Analyzing delivery performance helps organizations:
+- Monitor operational efficiency
+- Identify problem areas
+- Improve decision-making using data
+
+This project simulates how a logistics company can use Excel to track and improve delivery performance.
+
 ## Project Overview
 This project analyzes delivery performance for Streamline Logistics Solutions using Excel.
 
