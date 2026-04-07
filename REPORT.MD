@@ -44,6 +44,11 @@ The dataset includes:
 - Average Delivery Time
 - Regional Performance
 
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts and Dashboards
+
 ## Dashboard & Analysis
 An interactive Excel dashboard was created to visualize:
 - Delivery trends over time
