@@ -46,9 +46,6 @@ An interactive Excel dashboard was created to visualize:
 - Optimize delivery scheduling during peak periods
 - Monitor KPIs regularly using dashboards
 
-## Project Files
-- Excel Dashboard
-- PowerPoint Presentation
 
 ## Project Files
 - Excel Dataset: [Download Here](link)
