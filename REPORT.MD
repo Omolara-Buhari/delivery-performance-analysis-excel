@@ -48,5 +48,5 @@ An interactive Excel dashboard was created to visualize:
 
 
 ## Project Files
-- Excel Dataset: [Download Here](link)
-- PowerPoint Presentation: [View Here](link)
+- [Excel Dataset](./delivery-performance-data.xlsx)
+- [Presentation (PDF)](./delivery-performance-presentation.pdf)
