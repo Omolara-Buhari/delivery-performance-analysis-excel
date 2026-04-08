@@ -26,10 +26,11 @@ This project analyzes delivery performance for Streamline Logistics Solutions us
 The goal is to identify inefficiencies, delays, and trends in delivery operations and provide actionable insights to improve performance.
 
 ## Objectives
-- Analyze delivery times and delays
-- Identify key performance indicators (KPIs)
-- Evaluate on-time delivery performance
-- Provide recommendations for improvement
+
+- Analyze delivery time and delay patterns  
+- Evaluate performance across routes, drivers, and regions  
+- Identify key factors contributing to delays  
+- Provide recommendations to improve operational efficiency  
 
 ## Dataset
 The dataset includes:
