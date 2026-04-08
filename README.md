@@ -6,5 +6,15 @@ End-to-end Excel data analysis project transforming raw delivery data into inter
 - [Excel Dataset](./delivery-performance-data.xlsx)
 - [Presentation (PDF)](./delivery-performance-presentation.pdf)
 
+## 📊 Dashboard Preview
+
+### 🔹 Overview Dashboard
+![Overview](dashboard-overview.png)
+
+### 🔹 Analysis Dashboard
+![Analysis](dashboard-analysis.png)
+
+
+
 ## Full Report
 👉 [Click here to view the full project report](./REPORT.MD)
