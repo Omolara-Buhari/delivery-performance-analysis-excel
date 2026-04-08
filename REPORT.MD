@@ -56,10 +56,6 @@ An interactive Excel dashboard was created to visualize:
 - Performance by region
 - KPI summaries
 
-## Key Insights
-- A significant number of deliveries were delayed beyond expected dates
-- Certain regions experienced more delays than others
-- Peak delivery periods showed higher inefficiencies
 
 ##  Key Insights
 
@@ -71,6 +67,8 @@ An interactive Excel dashboard was created to visualize:
   - Negative: **31%**
 - Route1 has the highest delivery time (**161 minutes**)
 - Expedited allocation rules resulted in higher delays (**154 minutes**) compared to standard methods
+- Certain regions experienced more delays than others
+- Peak delivery periods showed higher inefficiencies
 
 ## Recommendations
 - Improve route planning for high-delay regions
