@@ -4,9 +4,11 @@
 **Date:** April 2026
 
 ## Introduction
+
 Delivery performance is a critical factor in logistics and supply chain management. Companies rely on timely and efficient deliveries to maintain customer satisfaction and operational efficiency.
 
-This project focuses on analyzing delivery performance data to understand delays, identify inefficiencies, and improve logistics operations.
+This project analyzes delivery performance data to identify delays, uncover inefficiencies, and provide actionable insights to improve logistics operations.
+
 
 ## Background
 In today’s competitive logistics industry, delivery delays can lead to customer dissatisfaction, increased costs, and loss of business reputation.
