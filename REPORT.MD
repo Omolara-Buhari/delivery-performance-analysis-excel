@@ -61,6 +61,17 @@ An interactive Excel dashboard was created to visualize:
 - Certain regions experienced more delays than others
 - Peak delivery periods showed higher inefficiencies
 
+##  Key Insights
+
+- Average delivery time is **152 minutes**
+- Average delays recorded at **15 per delivery cycle**
+- Customer feedback distribution:
+  - Positive: **35%**
+  - Neutral: **34%**
+  - Negative: **31%**
+- Route1 has the highest delivery time (**161 minutes**)
+- Expedited allocation rules resulted in higher delays (**154 minutes**) compared to standard methods
+
 ## Recommendations
 - Improve route planning for high-delay regions
 - Optimize delivery scheduling during peak periods
