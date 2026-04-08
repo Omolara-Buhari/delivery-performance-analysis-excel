@@ -80,7 +80,8 @@ An interactive Excel dashboard was created to visualize:
 
 ## Conclusion
 
-The analysis reveals key inefficiencies in delivery operations, particularly in certain routes and allocation strategies. By optimizing scheduling and resource allocation, delivery performance can be significantly improved.
+The analysis reveals key inefficiencies in delivery operations, particularly in certain routes and allocation strategies.
+By optimizing scheduling and resource allocation, delivery performance can be significantly improved.
 
 ## Project Files
 - [Excel Dataset](./delivery-performance-data.xlsx)
